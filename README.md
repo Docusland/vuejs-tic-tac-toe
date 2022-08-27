@@ -1,4 +1,9 @@
-# my-first-project
+# Vue Tic Tac Toe
+Basic Tic Tac toe. 
+Implemented in Vue 3. 
+
+This project is a basic solution answering the exercise specified [here](https://gitlab.com/-/ide/project/docusland-courses/javascript/js-tic-tac-toe/)
+
 
 ## Project setup
 ```
